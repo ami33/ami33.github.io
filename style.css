@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(252, 198, 206);
+}
+
+header{
+  width:600px;
+  margin:0 auto;
+  display:flex;
+  justify-content: space-between;
+  padding-top:80px;
+}
+
+header img{
+  vertical-align: bottom;
+  border-radius: 50% ;
+}
+
+.info{
+  color:rgb(78, 68, 73);
+  margin-right: 100px;
+}
